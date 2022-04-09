@@ -1,0 +1,64 @@
+google.com - jdk 1.8 download(검색)
+
+Java 8 - Windows - x64
+
+Win + Pause (시스템 정보)
+
+---------------------------------------
+오라클 회원 가입
+---------------------------------------
+
+JDK	Java Development Kit	 자바 개발 도구
+JRE	Java Runtime Environment 자바 실행 환경
+
+1) JRE는 운영체제가 바로 식별한다
+2) JDK는 설치위치를 알려줘야 식별한다
+
+[환경 변수 설정]
+
+돋보기 - sysdm.cpl - 고급 - 환경 변수 - 시스템 변수
+새로만들기
+변수이름 : JAVA_HOME
+변수 값 : (JDK가 설치된 폴더경로)
+
+Path - 편집 - 새로 만들기 - %JAVA_HOME%\bin
+
+
+cmd 실행
+C:\> java -version		(JRE)
+C:\> javac -version		(JDK)
+
+[user@mymac ~]# java -version	(JRE)
+[user@mymac ~]# javac -version	(JDK)
+
+
+
+google.com - 이클립스 2019-06r
+
+Eclipse IDE for JAVA Developer
+windows x86_64
+
+소스 코드 파일 작성 및 편집, 저장, 관리
+컴파일, 실행, 디버깅, 테스트
+
+위와 같은 프로그램 개발에 필요한 여러 기능을 통합한 프로그램
+IDE (Intergrated Development Environment)
+통합 개발 환경
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
